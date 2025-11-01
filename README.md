@@ -1,0 +1,1 @@
+# grid-and-flex-apply-in-same-table-in-tailwind-css
